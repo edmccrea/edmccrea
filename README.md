@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edmccrea
 - 👀 I’m interested in JavaScript, Node, Mongoose, React, CSS, HTML
 - 🌱 I’m currently learning Web Development from the start. I'm using a bunch of different resources including FreeCodeCamp, Udemy Courses, CS50 etc.
-- 💞️ I’m looking to collaborate on nothing yet. I'm not sure I could contribute in a meaningful way at this moment. I will as soon as I can though!
+- 💞️ I’m looking to collaborate on MERN stack projects to improve my knowledge and understanding.
 - 📫 How to reach me ... @edmccrea on twitter
 
 <!---
